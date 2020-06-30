@@ -8,3 +8,5 @@ And again! I have added thigns.
 Add another line through SVN.
 
 BEEEEEEP
+
+Git - no svn
